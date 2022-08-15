@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexholmes99" alt="alexholmes99" /></a> </p>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **alexholmes099@gmail.com**
 
